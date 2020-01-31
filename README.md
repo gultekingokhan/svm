@@ -45,5 +45,5 @@ Don’t use if:
 - They don’t perform so well in very large data sets, because the training time happens to be cubic in the size of the data set.
 - They also don’t work well with lots of noise. So when the class are very overlapping you have to count independent evidence. (In this case Naive Bayes would work better)
 
-## Conclusion:
-If you have a big data set, if you have lots of feature SVM might be very slow.
+## Tips
+⭐️ If you have a big data set, if you have lots of feature SVM might be very slow.
